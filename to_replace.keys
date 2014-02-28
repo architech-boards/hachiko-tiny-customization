@@ -1,0 +1,18 @@
+@project@;Hachiko
+@copyright@;Architech
+@version@;1.0.0
+@release@;1.0.0
+@htmlhelp@;hachiko-sdkdoc
+@vendor@;Architech
+@board@;Hachiko
+@meta-layer@;meta-hachiko
+@manifest-repository@;hachiko-manifest
+@machine-name@;hachiko
+@board-splashscreen@;hachiko-tiny-splashscreen
+@user@;architech
+@user-password@;architech
+@ubuntu-machine-name@;architech
+@vm-ip@;192.168.0.100
+@board-alias@;hachiko-tiny
+@ubuntu-version@;Ubuntu 12.04 32bit
+@distro-name@;tiny-linux-uclibc
