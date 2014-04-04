@@ -13,6 +13,17 @@
 @user-password@;architech
 @ubuntu-machine-name@;architech
 @vm-ip@;192.168.0.100
+@target-ip@;192.168.0.10
 @board-alias@;hachiko-tiny
 @ubuntu-version@;Ubuntu 12.04 32bit
 @distro-name@;tiny-linux-uclibc
+@quickstart-image@;tiny-image
+@console-device@;ttyUSB0
+@target-default-eth-if@;eth0
+@eabi@;uclibceabi
+@u-boot-start-addr@;0x20000000
+@u-boot-end-addr@;0x20A00000
+@unboxing@;unboxing
+@quick-lan-connector@;XF1
+@qt-libs-alias@;Hachiko-tiny
+@arm-toolchain-directory@;cortexa9hf-vfp-neon-poky-linux-uclibceabi
